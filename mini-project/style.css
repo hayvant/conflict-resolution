@@ -1,0 +1,21 @@
+
+section {
+    display: flex;
+
+}
+
+.Box {
+    color: purple;
+    border: solid;
+    width: 50%;
+    border-color: purple;
+    margin: 5px;
+}
+
+.minibox{
+color: white;
+background-color: purple;
+border: solid purple;
+
+}
+
